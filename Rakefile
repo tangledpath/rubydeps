@@ -14,7 +14,7 @@ spec = Gem::Specification.new do |s|
   s.add_development_dependency(%q<rake-compiler>, ["~> 0.8"])
   s.add_development_dependency(%q<rspec>, ["~> 2.13"])
   s.add_development_dependency(%q<file_test_helper>, ["~> 1.0"])
-  s.add_dependency(%q<debugger-ruby_core_source>, ["~> 1.2"])
+  s.add_dependency(%q<debase-ruby_core_source>, ["~> 0.9.4"])
   s.add_dependency(%q<ruby-graphviz>, ["~> 1.0"])
   s.add_dependency(%q<thor>, ["~> 0.18"])
 
